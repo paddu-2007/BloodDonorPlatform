@@ -1,0 +1,43 @@
+.stApp{
+    background:#f8f9fa;
+}
+
+.main-title{
+    text-align:center;
+    color:#c1121f;
+    font-size:55px;
+    font-weight:bold;
+}
+
+.banner{
+    background:linear-gradient(135deg,#c1121f,#e63946);
+    color:white;
+    padding:30px;
+    border-radius:20px;
+    text-align:center;
+    margin-bottom:20px;
+}
+
+.card{
+    background:white;
+    border-left:6px solid #c1121f;
+    padding:20px;
+    border-radius:15px;
+    text-align:center;
+    box-shadow:0px 4px 10px rgba(0,0,0,0.1);
+}
+
+.info-card{
+    background:white;
+    margin-top:20px;
+    padding:25px;
+    border-radius:15px;
+    border-left:6px solid #e63946;
+}
+
+div[role="radiogroup"]{
+    background:white;
+    padding:10px;
+    border-radius:15px;
+    box-shadow:0px 4px 8px rgba(0,0,0,0.08);
+}
